@@ -206,5 +206,5 @@ Go uses composition and interfaces instead of class inheritance.
 Sources
 Go — How It All Began. A Look Back at the Beginning of Go… | by Bijesh O S | Geek Culture | Medium, medium.com/geekculture/learn-go-part-1-the-beginning-723746f2e8b0. Accessed 17 June 2026.
 Rob Pike                  Google. “Go at Google: Language Design in the Service of Software Engineering.” Go, go.dev/talks/2012/splash.article. Accessed 16 June 2026.
-There was some AI usage in the Report and Code
+There was some usage of AI for the report history, coding to polish up the clearance, fix grammar, and help with the features of phase 2 of the programming. 
 
