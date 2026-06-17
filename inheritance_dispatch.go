@@ -26,3 +26,24 @@ type Speaker interface {
 func callSpeaker(s Speaker) {
 	s.Speak()
 }
+func main() {
+	child := Child{
+		Parent: Parent{Name: "Parent Name"},
+		Name:   "Child Name",
+	}
+
+	fmt.Println("Variable field test:")
+	fmt.Println("child.Name =", child.Name)
+	fmt.Println("child.Parent.Name =", child.Parent.Name)
+
+	fmt.Println()
+
+	fmt.Println("Method dispatch test:")
+	child.Speak()
+	child.Parent.Speak()
+
+	fmt.Println()
+
+	fmt.Println("Interface method dispatch:")
+	callSpeaker(child)
+}
