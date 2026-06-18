@@ -218,17 +218,6 @@ Variable inheritance is static.
 Method dispatch can be dynamic when using interfaces.
 Go uses composition and interfaces instead of class inheritance.
 
-Sources
-Go — How It All Began. A Look Back at the Beginning of Go… | by Bijesh O S | Geek Culture | Medium, medium.com/geekculture/learn-go-part-1-the-beginning-723746f2e8b0. Accessed 17 June 2026.
-Rob Pike                  Google. “Go at Google: Language Design in the Service of Software Engineering.” Go, go.dev/talks/2012/splash.article. Accessed 16 June 2026.
-There was some usage of AI for the report history, coding to polish up the clearance, fix grammar, and help with the features of phase 2 of the programming. 
-
-
-
-
-
-
-
 Appendix
 Appendix A – Hello World Program -Author Ammon Crail
 The first program created during the tutorial phase was a simple Hello World program used to verify that the Go environment was installed correctly.
@@ -373,15 +362,26 @@ Variable inheritance: Static
 Method dispatch: Dynamic (through interfaces)
 
 
+
+
+Sources
+Go — How It All Began. A Look Back at the Beginning of Go… | by Bijesh O S | Geek Culture | Medium, medium.com/geekculture/learn-go-part-1-the-beginning-723746f2e8b0. Accessed 17 June 2026.
+Rob Pike                  Google. “Go at Google: Language Design in the Service of Software Engineering.” Go, go.dev/talks/2012/splash.article. Accessed 16 June 2026.
+There was some usage of AI for the report history, coding to polish up the clearance, fix grammar, and help with the features of phase 2 of the programming. 
+
+
+
+
+
+
+
 AI Use Disclosure
-Artificial intelligence tools were used as learning and polishing tools during the completion of this project. All information obtained from AI was reviewed and verified by the authors before being included in the report or source code.
 AI Use for the Written Report
 AI was used to suggest sources and starting points for researching the history and features of the Go programming language.
 AI was used to improve grammar, wording, and readability throughout the report after the initial draft had been written.
 AI was used to help organize explanations and improve the clarity of several sections of the report.
 AI was used to assist in formatting and organizing the appendix and team contribution sections.
 AI Use for the Sample Program
-Phase 1 of the Budget Tracker project consisted of learning Go and building the initial program without AI assistance by following tutorials and experimenting with the language.
 During Phase 2, AI was used to help extend and refine the Budget Tracker program.
 AI was used to improve code formatting, error handling, and overall readability.
 AI was used to help implement and refine features such as viewing transactions, calculating balances, and improving user interaction.
